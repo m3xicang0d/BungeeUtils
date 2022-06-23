@@ -1,0 +1,97 @@
+WHITELIST:
+  ENABLED: true
+  KICK-MESSAGE:
+    - ""
+    - "&cThe network is currently whitelisted."
+    - "&cAdditional info may be found at our discord or twitter!"
+    - ""
+  PLAYERS: []
+
+TEAMSPEAK:
+  TEXT:
+    - "&7&m----------------------------------------"
+    - ""
+    - "&6&lNeed sopport? &7Join our TeamSpeak."
+    - "&ets.savage.rip"
+    - ""
+    - "&7&m----------------------------------------"
+DISCORD:
+  TEXT:
+    - "&7&m----------------------------------------"
+    - ""
+    - "&6&lOur Discord &7(Click Link)"
+    - "&ehttps://savage.rip/discord"
+    - ""
+    - "&7&m----------------------------------------"
+TWITTER:
+  TEXT:
+    - "&7&m----------------------------------------"
+    - ""
+    - "&6&lOur Twitter &7(Click Link)"
+    - "&ehttps://twitter.com/savagerip"
+    - ""
+    - "&7&m----------------------------------------"
+TELEGRAM:
+  TEXT:
+    - "&7&m----------------------------------------"
+    - ""
+    - "&6&lOur Telegram &7(Click Link)"
+    - "&ehttps://t.me/savagerip"
+    - ""
+    - "&7&m----------------------------------------"
+MEDIA-REQUERIMENTS:
+  TEST:
+    - "&7&m----------------------------------------"
+    - ""
+    - "&6&lMedia Requeriments"
+    - ""
+    - "&cYoutuber&7: (Use /youtube)"
+    - "&dFamous&7: (Use /famous)"
+    - "&dPartner&7: (Use /partner)"
+    - ""
+    - "&7&m----------------------------------------"
+PARTNER:
+  TEXT:
+    - "&7&m----------------------------------------"
+    - ""
+    - "&d&lPartner &7- &fRequeriments"
+    - "&cThis rank can only be claimed by speaking with a server manager"
+    - ""
+    - "&7&m----------------------------------------"
+FAMOUS:
+  TEXT:
+    - "&7&m----------------------------------------"
+    - ""
+    - "&d&lFamous &7- &fRequeriments"
+    - "&7- &c1000 subscribers & 600 visits"
+    - "&7- &c2 videos per week from the server"
+    - "&eto claim this rank you must join our teamspeak"
+    - ""
+    - "&cteamspeak: ts.savage.rip"
+    - ""
+    - "&7&m----------------------------------------"
+YOUTUBE:
+  TEXT:
+    - "&7&m----------------------------------------"
+    - ""
+    - "&cYou&fTuber &7- &fRequeriments"
+    - "&7- &c100 subscribers & 40 visits"
+    - "&7- &c2 videos per week from the server"
+    - "&eto claim this rank you must join our teamspeak"
+    - ""
+    - "&cteamspeak: ts.savage.rip"
+    - ""
+    - "&7&m----------------------------------------"
+HELP:
+  TEXT:
+    - "&7&m----------------------------------------"
+    - "&eFor instant assistance join our teamspeak!"
+    - ""
+    - " &eTeamspeak&7: &bts.savage.rip"
+    - " &eTwitter&7: &bwww.twitter.com/servercom"
+    - " &eStore&7: &bstore.server.com"
+    - " &eWebsite&7: &bwww.server.com"
+    - " &eDiscord&7: &bdiscord.server.com"
+    - "&eCheck out the rules at: www.server.com/rules"
+    - ""
+    - "&7&m----------------------------------------"
