@@ -9,12 +9,10 @@ import net.md_5.bungee.api.plugin.Command;
 import java.util.Objects;
 import java.util.UUID;
 
-public class WhitelistCommand extends Command {
+public class MaintenanceCommand extends Command {
 
-    public WhitelistCommand() {
-        super("bwhitelist",
-                "bungeecord.command.whitelist",
-                  "maintenance", "bmaintenance", "bwl");
+    public MaintenanceCommand() {
+        super("bungeewhitelist", "bungeecord.command.whitelist", "maintenance", "bwl");
     }
     
     public void execute(CommandSender sender, String[] args) {
@@ -24,7 +22,7 @@ public class WhitelistCommand extends Command {
         }
 
         if (args.length < 1) {
-            sender.sendMessage(CC.translate("&cUsage: /bwhitelist <on:off:add/remove name>"));
+            sender.sendMessage(CC.translate("&cUsage: /maintenance <on:off:add/remove name>"));
             return;
         }
 
@@ -76,6 +74,6 @@ public class WhitelistCommand extends Command {
             }
         }
         catch (Exception ignored) {}
-        sender.sendMessage(CC.translate("&cUsage: /bwhitelist <on:off:list:add/remove name>"));
+        sender.sendMessage(CC.translate("&cUsage: /maintenance <on:off:list:add/remove name>"));
     }
 }

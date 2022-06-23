@@ -1,9 +1,15 @@
 package me.jesusmx.bungee.utils;
 
-import java.util.*;
-import java.net.*;
-import java.io.*;
-import com.google.gson.*;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
+
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.UUID;
 
 public class MojangUtils {
 

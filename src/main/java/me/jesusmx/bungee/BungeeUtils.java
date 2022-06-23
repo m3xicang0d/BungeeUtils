@@ -7,10 +7,7 @@ import me.jesusmx.bungee.commands.media.DiscordCommand;
 import me.jesusmx.bungee.commands.media.TeamSpeakCommand;
 import me.jesusmx.bungee.commands.media.TelegramCommand;
 import me.jesusmx.bungee.commands.media.TwitterCommand;
-import me.jesusmx.bungee.commands.server.FindCommand;
-import me.jesusmx.bungee.commands.server.HubCommand;
-import me.jesusmx.bungee.commands.server.ServerCommand;
-import me.jesusmx.bungee.commands.server.WhitelistCommand;
+import me.jesusmx.bungee.commands.server.*;
 import me.jesusmx.bungee.commands.youtube.FamousCommand;
 import me.jesusmx.bungee.commands.youtube.MediaCommand;
 import me.jesusmx.bungee.commands.youtube.PartnerCommand;
@@ -56,7 +53,7 @@ public class BungeeUtils extends Plugin {
 
     private void commands() {
         this.getProxy().getPluginManager().registerCommand(this, new HubCommand());
-        this.getProxy().getPluginManager().registerCommand(this, new WhitelistCommand());
+        this.getProxy().getPluginManager().registerCommand(this, new MaintenanceCommand());
         this.getProxy().getPluginManager().registerCommand(this, new FindCommand());
         this.getProxy().getPluginManager().registerCommand(this, new ServerCommand());
         this.getProxy().getPluginManager().registerCommand(this, new TeamSpeakCommand());
@@ -68,6 +65,7 @@ public class BungeeUtils extends Plugin {
         this.getProxy().getPluginManager().registerCommand(this, new FamousCommand());
         this.getProxy().getPluginManager().registerCommand(this, new PartnerCommand());
         this.getProxy().getPluginManager().registerCommand(this, new BungeeCommand());
+        this.getProxy().getPluginManager().registerCommand(this, new HelpCommand());
     }
 
     public void whitelist(boolean enabled) {

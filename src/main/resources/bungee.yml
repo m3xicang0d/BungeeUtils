@@ -1,4 +1,4 @@
 name: Bungee
-main: me.jesusmx.bungee.Bungee
+main: me.jesusmx.bungee.BungeeUtils
 author: JesusMX
 version: 2.0
