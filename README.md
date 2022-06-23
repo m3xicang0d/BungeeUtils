@@ -19,8 +19,6 @@
 ![image](https://user-images.githubusercontent.com/64879531/175192178-a1632e50-7025-425c-b48e-0b5ab5490ccb.png)
 ![image](https://user-images.githubusercontent.com/64879531/175192220-c8a77e9f-b4d3-4257-925e-1f8f1b7d81cc.png)
 ![image](https://user-images.githubusercontent.com/64879531/175192247-5cafed45-af9a-4159-b4d0-97bb8d13ebb4.png)
-![image](https://user-images.githubusercontent.com/64879531/175192309-488c7041-1df0-45a7-9384-98f963756e56.png)
-
 
 # Contact
 * Author: JesusMX
