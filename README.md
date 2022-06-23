@@ -14,9 +14,10 @@
 ![image](https://user-images.githubusercontent.com/64879531/175191290-c8ed1243-97b5-479f-8cf6-409879eace42.png)
 ![image](https://user-images.githubusercontent.com/64879531/175191356-a2ba825e-aea3-41cd-8d96-91cbaa280263.png)
 
-# Author:
-* JesusMX
-
 # Contact
+* Author: JesusMX
 * Twitter: https://twitter.com/GEZT27
 * Discord: JesusMX#2122
+
+# Selling & Using
+You're free to use this product for anything, including selling and running on your own server. However, if you're going to sell a plugin using this, please leave credits and/or a link to the repository.
